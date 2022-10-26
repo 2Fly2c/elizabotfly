@@ -1,0 +1,31 @@
+body{
+	background-color: #53648c;
+	background-image: url("interrogation.jpg");
+}
+
+H3{
+	font-size: 30;
+}
+
+center{
+	background-color: #c5c295;
+	width: 46%;
+	height: 60%;
+	margin: auto;
+	border: 20px solid black;
+	border-radius: 25px;
+}
+
+#left1{
+	height: 100%;
+	width: 15%;
+	float: left;
+	background-color: black;
+}
+
+#right1{
+	height: 100%;
+	width: 15%;
+	float: right;
+	background-color: black;
+}
